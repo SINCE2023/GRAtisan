@@ -1,0 +1,559 @@
+#EXTM3U
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" , RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" , GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" , MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" , iNews
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" , ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" , INDOSIAR
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" , SCTV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" , Trans TV
+https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" , Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" , TVOne
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" , Metro TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" , Rajawali TV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" , Kompas TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" , TVRI Nasional
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" , Jak TV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png" , JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png" , Bali TV
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" , Da Ai TV Indonesia
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png" , Bandung TV
+https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" , NET
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg" , Berita Satu News
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" , MNC News
+https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" , IDX Channel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png" , SEA Today
+https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" , BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" , BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" , CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" , CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png" , Aljazeera English
+https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" , BBC World News Asia Pacific
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png" , Bloomberg TV Asia
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png" , CGTN
+https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png" , CNA
+https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png" , CNBC Asia-Pacific
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg" , CNN International Asia Pacific
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png" , DW English
+https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" , EuroNews English
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png" , Fox News Channel
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg" , France 24 English
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" , NHK World Japan
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png" , NHK World Premium
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt_ru_english.png" , RT English
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_world_tr.png" , TRT World
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png" , ABC Australia Asia
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png" , Anhui TV
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png" , Arirang World
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg" , Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" , HGTV Asia
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png" , Hunan TV
+https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png" , Jiangsu TV
+https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" , Lifestyle & Fashion
+https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg" , Lifetime Asia
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_79.jpg" , M Shop Signature
+https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.jpg" , M Shop Super Sale!
+https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png" , MNC Entertainment
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png" , MNC Infotainment
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" , OK TV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png" , ONE
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png" , Dragon TV
+https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg" , TLC Southeast Asia
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png" , TV5Monde Asie
+https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png" , Vision Prime
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png" , Xing Kong TV
+https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" , K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://bit.ly/EGGnet" , Egg Network
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" , Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/W4L4dn04/discovery-asia.png" , DISCOVERY ASIA
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png" , LOVE NATURE
+https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png" , OUTSIDE TV
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" , PEOPLE ARE AWESOME
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/RVfC96Dm/SMITHSONIAN.png" , Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" , NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png" , Animal Planet Southeast Asia
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg" , BBC Earth Asia
+https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png" , Besmart
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png" , CGTN Documentary
+https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg" , Crime + Investigation Asia
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png" , Discovery Channel Southeast Asia
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png" , History Asia
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png" , National Geographic Asia
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" , National Geographic Wild Asia
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png" , Baby TV Asia
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg" , Boomerang South East Asia
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png" , Cartoon Network Asia
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png" , CBeebies Asia
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" , Kids TV
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/miawme150x150.jpg" , Miao Mi
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" , Nick Jr Asia
+https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" , Nickelodeon South East Asia
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" , Animax Asia
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg" , AXN East Asia
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" , Celestial Classic Movies
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png" , Celestial Movies Indonesia
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png" , CinemaWorld
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" , Cinemax Asia
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fmn.jpg" , FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" , HBO Asia
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" , HBO Family Asia
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" , HBO Hits Asia
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" , HBO Signature Asia
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg" , HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png" , HITS Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg" , KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg" , Star Chinese Movies South East Asia
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" , Thrill
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" , TVN Premium Indonesia
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" , TVN Movies Indonesia
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" , Warner TV Southeast Asia
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" , Zee Bioskop
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" , Music TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" , BeIn Sports 1 Indonesia
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg" , BeIn Sports 2 Indonesia
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" , Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" , MNC Sports 1
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" , MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" , MNC Sports 3
+https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" , Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" , Soccer Channel Non Liga
+https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png" , SPOTV
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" , SPOTV 2
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" , EWTN
+https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png" , LIFE
+https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" , TV Mu
+https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" , Muslim TV
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" , Quran TV
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png" , Reformed 21
+https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png" , Tawaf TV
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" , TV 9 Nusantara
+https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" , RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg" , MEDS TV ACEH
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png" , UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://live.artvisi.or.id/logo/rodja.png" , RODJA TV
+https://h1.intechmedia.net/intech/ch26.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://live.artvisi.or.id/logo/rodja.png" , RODJA TV (Backup)
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png" , MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" , MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://live.artvisi.or.id/logo/surautv.png" , SURAU TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://live.artvisi.or.id/logo/surautv.png" , SURAU TV (Backup)
+http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" , ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" , ASHIIL TV (Backup)
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" , AL IMAN TV
+https://h1.intechmedia.net/intech/ch9.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" , AL IMAN TV (Backup)
+http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://live.artvisi.or.id/logo/insantv.png" , INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png" , AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png" , AHSAN TV (Backup)
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg" , ALFURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH TV.jpg" , HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png" , SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" , NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" , NIAGA TV (Backup)
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png" , IZZAH TV
+https://h1.intechmedia.net/intech/ch7.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png" , IZZAH TV (Backup)
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://live.artvisi.or.id/logo/muadztv.png" , MUADZ TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://live.artvisi.or.id/logo/muadztv.png" , MUADZ TV (Backup)
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://live.artvisi.or.id/logo/mgitv.png" , MGI TV
+https://h1.intechmedia.net/intech/ch25.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://live.artvisi.or.id/logo/mgitv.png" , MGI TV (Backup)
+https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio hidayah.png" , HIDAYAH TV
+https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png" , BINBAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" , TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" , TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" , TV3
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" , Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" , TV-Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" , TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2018/11/ntv7-icon_v1-1-g.jpg" , TV7
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png" , TV8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png" , TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" , TV Hijrah
+https://alhijrahmedia.com/tv-alhijrah-live-streaming/
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" , RTM Berita
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" , RTM Sport
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png" , SPOTV
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" , SPOTV 2
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" , beIN Sport 1 ID
+https://on-load.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" , beIN Sport 2 ID
+https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" , FIGHT SPORTS
+https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://mncchannels.com/files/logo/1601971751_logo_SOCCERchannel[logo-png].png" , Soccer channel
+https://liveanevia.mncnow.id:443/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.useetv.com/pimages/tvposter/useeSport.png" , UseeSports 1
+http://goldentv.tech:25461/rachman/rachman/22973
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" , Usee Sports 1 Backup
+http://15.235.142.228:8080/live/hometvfree/selaludihati/70.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.useetv.com/pimages/tvposter/useeSport.png" , UseeSports 2
+http://goldentv.tech:25461/rachman/rachman/22974
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" , Usee Sports 2 Backup
+http://15.235.142.228:8080/live/hometvfree/selaludihati/71.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" , Beinsport English 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" , Beinsport English 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" , Beinsport English 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" , Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" , Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.ibb.co/hCQ1fbG/Tpf.png" , PREMIER FOOTBALL HD 1
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.ibb.co/4t0NRM6/Tpf2.png" , PREMIER FOOTBALL HD 2
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.ibb.co/jgCVCTD/Tpf3.png" , PREMIER FOOTBALL HD 3
+https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.ibb.co/KKsvZsD/Tpf4.png" , PREMIER FOOTBALL HD 4
+https://wopep.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" , TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" , SUKAN RTM
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.pnghttps://www.pngkit.com/png/full/972-9721216_1-tvg-id-tvg-name-tvg-logo-https.png" , ABU DHABI SPORTS 1ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://www.maxtvs.net/admin/img/channel/fbd5e104dfb5e868621a.png" , ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://www.pdfreestyle.com/wp-content/uploads/2019/01/Dubai-Sports-Channel-Logo.png" , DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://4flims.com/upload/source/dubaisports1%D9%86%D8%B3%D8%AE.png" , DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://4flims.com/upload/source/dubaisports1%D9%86%D8%B3%D8%AE.png" , DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://dusktill.masuk.web.id/img/balitv.png" , BALI TV
+https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.imgur.com/wkK7YNx.png" , JITV
+http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" , JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" , JAKTV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://dusktill.masuk.web.id/img/bandungtv.png" , BandungTV
+https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png" , Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png" , TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" , JakTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png" , Banten Raya TV
+https://v2.siar.us/barayatv/live/chunks.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" , ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" , TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/a/af/ATV_Malang_Logo_%282011%29.png/revision/latest/scale-to-width-down/250?cb=20210305150408" , ATV Malang
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png" , BMSTV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CTV_Banten_logo.png/revision/latest?cb=20180920052628" , CTV Banten
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.imgur.com/RRu0wKR.png" , PRIMA TV
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="http://desavision.id/wp-content/uploads/2021/01/Komunitas-TV-Desa.png" , TV DESA
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png" , SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.imgur.com/WHeb9Yt.png" , Duta TV
+https://v2.siar.us/dutatv/live/playlist.m3u8
+#
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", 24 HORAS HD
+http://45.235.39.84:5555/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", A&E HD
+http://45.235.39.84:5555/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", AMC HD
+http://45.235.39.84:5555/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", ANX HD
+http://45.235.39.84:5555/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", CANAL 13 HD
+http://45.235.39.84:5555/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", CARTOON NETWORK HD
+http://45.235.39.84:5555/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", CHV HD
+http://45.235.39.84:5555/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", CINECANAL HD
+http://45.235.39.84:5555/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", CINEMAX HD
+http://45.235.39.84:5555/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Cartoon Network
+http://45.235.39.84:5555/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", DISCOVERY H&H HD
+http://45.235.39.84:5555/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", DISCOVERY KIDS HD
+http://45.235.39.84:5555/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", DISNEY CHANNEL HD
+http://45.235.39.84:5555/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Discovery Channel
+http://45.235.39.84:5555/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Discovery Kids
+http://45.235.39.84:5555/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Discovery Theater HD
+http://45.235.39.84:5555/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Discovery Turbo
+http://45.235.39.84:5555/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Discovery World HD
+http://45.235.39.84:5555/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Disney Channel
+http://45.235.39.84:5555/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Disney Jr
+http://45.235.39.84:5555/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Disney XD
+http://45.235.39.84:5555/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", E Entertainment
+http://45.235.39.84:5555/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", ESPN 1 HD
+http://45.235.39.84:5555/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", ESPN 2 HD
+http://45.235.39.84:5555/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", ESPN 3 HD
+http://45.235.39.84:5555/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", ESPN EXTRA HD
+http://45.235.39.84:5555/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", FOX HD
+http://45.235.39.84:5555/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", FX HD
+http://45.235.39.84:5555/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Fox Sports
+http://45.235.39.84:5555/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Fox Sports 1 HD
+http://45.235.39.84:5555/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Fox Sports 3 HD
+http://45.235.39.84:5555/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", HBO
+http://45.235.39.84:5555/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", HBO 2
+http://45.235.39.84:5555/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", HBO Family
+http://45.235.39.84:5555/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", HBO HD
+http://45.235.39.84:5555/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", HBO POP HD
+http://45.235.39.84:5555/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", HBO Plus
+http://45.235.39.84:5555/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", HBO XTREME
+http://45.235.39.84:5555/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", HISTORY HD
+http://45.235.39.84:5555/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", I-Sat
+http://45.235.39.84:5555/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", LA RED
+http://45.235.39.84:5555/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", MEGA HD
+http://45.235.39.84:5555/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", MTV
+http://45.235.39.84:5555/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", NAT GEO HD
+http://45.235.39.84:5555/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", NICKELODEON HD
+http://45.235.39.84:5555/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", NatGeo Kids
+http://45.235.39.84:5555/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Nick Jr
+http://45.235.39.84:5555/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Nickelodeon
+http://45.235.39.84:5555/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", PARAMOUNT HD
+http://45.235.39.84:5555/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", SONY HD
+http://45.235.39.84:5555/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", SPACE HD
+http://45.235.39.84:5555/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", STUDIO UNIVERSAL HD
+http://45.235.39.84:5555/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TBS
+http://45.235.39.84:5555/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TCM
+http://45.235.39.84:5555/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TLC
+http://45.235.39.84:5555/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TNT BASICO
+http://45.235.39.84:5555/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TNT HD
+http://45.235.39.84:5555/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TNT SPORT HD
+http://45.235.39.84:5555/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TNT SPORTS 2 HD
+http://45.235.39.84:5555/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TNT SPORTS 3 HD
+http://45.235.39.84:5555/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TNT Series HD
+http://45.235.39.84:5555/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", TVN HD
+http://45.235.39.84:5555/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", Teletrak
+http://45.235.39.84:5555/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", WARNER
+http://45.235.39.84:5555/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SINCE2023/GRAtisan/blob/main/logo5_3_2018.png" group-title="Manca Negara", ZONA LATINA
+http://45.235.39.84:5555/play/a01y/index.m3u8
+
